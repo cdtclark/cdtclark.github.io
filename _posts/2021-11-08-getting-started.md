@@ -14,7 +14,6 @@ comments: true
 
 ## Carousel
 
-{% highlight liquid %}
 {% raw %}
 {% capture images %}
 	https://i.imgur.com/NIGYlVK.gif
@@ -28,7 +27,6 @@ comments: true
 {% endcapture %}
 {% include gallery images=images caption="Test images" cols=1 %}
 {% endraw %}
-{% endhighlight %}
 
 ## Getting Started
 
