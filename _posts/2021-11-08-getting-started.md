@@ -14,7 +14,6 @@ comments: true
 
 ## Carousel
 
-{% raw %}
 {% capture images %}
 	https://i.imgur.com/NIGYlVK.gif
 	https://i.imgur.com/sqL26aO.gif
@@ -26,7 +25,6 @@ comments: true
     https://i.imgur.com/EmyzhGs.gif
 {% endcapture %}
 {% include gallery images=images caption="Test images" cols=1 %}
-{% endraw %}
 
 ## Getting Started
 
