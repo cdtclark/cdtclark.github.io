@@ -13,7 +13,7 @@ comments: true
 
 ### The home page
 
-1. Reopen `_config.yml` and click the pencil icon
+1. Reopen `_config.yml` and click the pencil icon to make edits.
 
 1. Replace `My MATC Portfolio` on line 2 with a new title for your site.
 
@@ -33,7 +33,7 @@ Lines 7 and 8 of the `_config.yml` show you that the logo and background images 
 
 1. Drag and drop the images you want to upload, and then click **Commit changes**. Note that it may take up to 10 minutes for your changes to rollout.
 
-   > Note that files with the same names will be replaced. If you uploaded files with different images, edit lines 7 and 8 in the `_config.yml` file to reflect the new names.
+   > Note that files with the same names will be replaced. If you uploaded files with different names, edit lines 7 and 8 in the `_config.yml` file to reflect the new names.
 
 #### Social icons
 
