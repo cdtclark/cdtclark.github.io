@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "1. Getting started"
+title:  "2. Customize your site"
 date:   2021-11-07
 excerpt: "Learn how to customize your site"
 project: true
