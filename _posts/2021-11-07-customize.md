@@ -2,7 +2,7 @@
 layout: post
 title:  "2. Customize your site"
 date:   2021-11-07
-excerpt: "Learn how to customize your site"
+excerpt: "Learn how to customize your site."
 project: true
 tags:
 - GitHub
