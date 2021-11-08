@@ -12,6 +12,24 @@ tags:
 comments: true
 ---
 
+## Carousel
+
+{% highlight liquid %}
+{% raw %}
+{% capture images %}
+	https://i.imgur.com/NIGYlVK.gif
+	https://i.imgur.com/sqL26aO.gif
+	https://i.imgur.com/Z3rzO7t.gif
+    https://i.imgur.com/RV0kw0A.gif
+    https://i.imgur.com/hsthdhY.gif
+    https://i.imgur.com/g1hJqNC.gif
+    https://i.imgur.com/jP06v9A.gif
+    https://i.imgur.com/EmyzhGs.gif
+{% endcapture %}
+{% include gallery images=images caption="Test images" cols=1 %}
+{% endraw %}
+{% endhighlight %}
+
 ## Getting Started
 
 1. [Create a GitHub account](https://github.com/join).
