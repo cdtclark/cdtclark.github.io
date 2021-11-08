@@ -24,7 +24,7 @@ comments: true
     https://i.imgur.com/jP06v9A.gif
     https://i.imgur.com/EmyzhGs.gif
 {% endcapture %}
-{% include gallery images=images caption="Test images" cols=1 %}
+{% include gallery images=images caption="Test images" cols=8 %}
 
 ## Getting Started
 
